@@ -1,0 +1,84 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.15f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=1476 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=2030 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=1789 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=2540 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2271 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1860 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2010 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1255): array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1265): array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  api=4 insize=44328 outsize=8511 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=7425 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=672 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=772 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1059 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1000 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=863 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=839 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=696 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=764 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=806 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1277 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1808 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1354 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1305 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1344 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1273 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1269 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1616 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1309 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=2627 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=9502 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=3501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4053 outsize=1700 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=11846 outsize=5706 kw=SHADOWS_SPLIT_SPHERES pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
